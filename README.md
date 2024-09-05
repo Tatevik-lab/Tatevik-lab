@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Tatevik
-###  I’m interested in Data Analysis
+### Hi 👋, my name is Tatevik
+###  I’m  a data analyst
 
 
-I've just  completed  Data Analyst Course by Yandex.Practicum
+
 
 Skills: Python, Postgresql , Tableau, Jupyter notebook.
  
